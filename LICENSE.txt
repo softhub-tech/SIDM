@@ -1,0 +1,95 @@
+SIDM PERSONAL EDITION FREEWARE LICENSE
+Version 1.0
+
+Copyright © 2026 SoftHub Tech.
+All Rights Reserved.
+
+SOFTWARE:
+SIDM — SoftHub Internet Download Manager
+Personal Edition
+
+1. LICENSE GRANT
+
+SoftHub Tech grants individual users a limited, non-exclusive,
+non-transferable license to install and use SIDM Personal Edition
+free of charge for personal use.
+
+2. PERMITTED USE
+
+You may:
+
+- Download SIDM from an official SoftHub Tech distribution channel.
+- Install SIDM on compatible Windows computers.
+- Use SIDM Personal Edition free of charge for personal purposes.
+- Make reasonable backup copies of the original installer for your
+  own personal use.
+
+3. RESTRICTIONS
+
+Unless you have prior written permission from SoftHub Tech, you may not:
+
+- Sell, rent, sublicense or commercially redistribute SIDM.
+- Modify, patch or create derivative versions of SIDM.
+- Repackage SIDM inside another installer or software package.
+- Remove or alter SoftHub Tech branding, copyright notices or
+  product identification.
+- Represent SIDM as software developed or owned by another person
+  or organization.
+- Use the SoftHub Tech name, logo or trademarks in a manner that
+  implies authorization, partnership or endorsement without permission.
+
+Reverse engineering, decompilation or disassembly is prohibited except
+to the limited extent that applicable law expressly grants such a right
+notwithstanding this restriction.
+
+4. REDISTRIBUTION
+
+Public redistribution of SIDM through third-party download websites,
+software repositories, mirrors or other distribution platforms requires
+prior written permission from SoftHub Tech.
+
+Users should obtain the latest official version from SoftHub Tech's
+official distribution channels.
+
+5. OWNERSHIP
+
+SIDM is licensed, not sold.
+
+All intellectual-property rights in SIDM, including its software,
+design, branding and associated materials, remain the property of
+SoftHub Tech and/or their respective rights holders.
+
+6. NO WARRANTY
+
+SIDM Personal Edition is provided "AS IS" without warranties of any
+kind, express or implied, to the maximum extent permitted by applicable
+law.
+
+SoftHub Tech does not guarantee uninterrupted operation, compatibility
+with every website or server, or that every download source will permit
+segmented or accelerated downloading.
+
+7. LIMITATION OF LIABILITY
+
+To the maximum extent permitted by applicable law, SoftHub Tech shall
+not be liable for indirect, incidental, special or consequential damages
+arising from the installation or use of SIDM.
+
+8. RESPONSIBLE USE
+
+Users are responsible for ensuring that files downloaded using SIDM are
+obtained and used lawfully and that their downloading activities comply
+with applicable laws and the terms of the relevant websites or services.
+
+9. TERMINATION
+
+This license terminates automatically if the user materially violates
+its terms. Upon termination, the user must discontinue use and remove
+unauthorized copies of SIDM.
+
+10. CONTACT
+
+SoftHub Tech
+Website: www.softhub.ng
+
+SIDM — Faster Downloads. Better Experience.
