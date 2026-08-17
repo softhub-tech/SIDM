@@ -32,7 +32,7 @@ Download the latest installer from the **Releases** section of this repository.
 
 ## SIDM in Action
 
-![SIDM Main Interface](screenshots/sidm-main.png)
+![SIDM Main Interface](screenshots/sidm-main2.png)
 
 SIDM provides a clean download dashboard showing file size, progress,
 download speed, estimated time remaining, thread count, date and status.
