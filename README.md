@@ -201,7 +201,7 @@ SIDM Personal Edition is freeware for permitted personal use.
 See [LICENSE.txt] LICENSE.txt) for complete licensing terms.
 ---
 <p align="center">
-  <strong>SIDM — Faster Downloads. Better Experience.</strong>
+  <strong>SIDM. Faster Downloads. Better Experience.</strong>
 </p>
 <p align="center">
   Developed by SoftHub Tech
