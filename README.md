@@ -1,7 +1,7 @@
 # SIDM
 SIDM (SoftHub Internet Download Manager) is a free download manager for Windows made by SoftHub Tech. It speeds up your downloads using multiple threads and is designed to be fast, modern, and smart about how it handles files.
 
-# SIDM — SoftHub Internet Download Manager
+# SIDM : SoftHub Internet Download Manager
 
 <p align="center">
   <img src="assets/sidm-logo.png" width="120" alt="SIDM Logo">
